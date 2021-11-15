@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mystictide
+- 👀 I’m interested in anything OOP
+- 🌱 I’m currently learning native Android app development with Kotlin
+- 📫 You can reach me at my public email address!
