@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mystictide
-- 👀 I’m interested in anything OOP
-- 🌱 I’m currently trying to build up a portfolio using different tools and frameworks
-- 📫 You can reach me at my public email address!
+- Hey there, I’m @mystictide
+- I’m mostly interested in Desktop & Web applications
+- Currently trying to build up a portfolio using different tools and frameworks
+- You can reach me at my public email address!
